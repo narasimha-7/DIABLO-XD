@@ -1,7 +1,7 @@
 {
-  "name": "DevilserMultiDevice",
+  "name": "DiabloXDMultiDevice",
   "version": "4.0.0v",
-  "description": "Devil ser [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
+  "description": "DiabloXD [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
   "main": "./QueenAmdi/assets/amdiModule.js",
   "scripts": {
     "start": "supervisor -s assets/amdiModule.js"
@@ -13,8 +13,8 @@
   "keywords": [
     "whatsapp"
   ],
-  "author": "MOINU",
-  "developer": "DEVIL SER",
+  "author": "ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs",
+  "developer": "ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/BlackAmda/QueenAmdi/issues"
