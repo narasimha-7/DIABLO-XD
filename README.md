@@ -1,4 +1,4 @@
-# SIMPLE MULTI DEVICE BOT RE CREATED BY DIABLO XD ❤️
+# SIMPLE MULTI DEVICE BOT RE CREATED BY ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs ❤️
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/ARw6zh7.jpeg" width="200" height="200"/>
@@ -46,12 +46,12 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ## Developers
   <div align="center">
   
-  [![Famees](https://i.imgur.com/ARw6zh7.jpeg)](https://github.com/narasimha-7/)[`Famees`](https://github.com/narasimha-7)
+  [![ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs](https://i.imgur.com/ARw6zh7.jpeg)](https://github.com/narasimha-7/)[`ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs`](https://github.com/narasimha-7)
 ----|
    `Re-Devoloper`
     
 ## Special Thanks To :
     
-  [![Diablo XD](https://i.imgur.com/ARw6zh7.jpeg)](https://github.com/narasimha-7)[`Devil`](https://github.com/narasimha-7/)
+  [![ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs](https://i.imgur.com/ARw6zh7.jpeg)](https://github.com/narasimha-7)[`ɴᷜᴀͣʀᷞ͢ᴀᷞsᷧɪᷢᴍᷧ͢ʜᴀ ᴍᷜᴀᷛ͢sᷫs`](https://github.com/narasimha-7/)
     
   </div>
